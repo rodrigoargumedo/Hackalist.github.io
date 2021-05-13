@@ -1,0 +1,42 @@
+{
+  "December" :
+  [
+    {
+      "title": "SPARK Hacks",
+      "url": "https://www.eventbrite.ca/e/spark-hackathon-2019-tickets-77251211453",
+      "startDate": "December 13",
+      "endDate": "December 14",
+      "year": "2019",
+      "city": "Toronto",
+      "host": "SPARK Hacks",
+      "length": "24 hours",
+      "size": "200",
+      "travel": "N/A",
+      "prize": "yes",
+      "highSchoolers": "Yes",
+      "cost": "$27.54",
+      "facebookURL": "https://www.facebook.com/events/415249972735038/",
+      "twitterURL": "None",
+      "notes": "High School Hackathon with a prize worth $1000! Use code SPARKHannah for $5 off registration fee."
+     },
+     {
+        "title": "Pragyan Hackathon",
+        "url": "https://pragyanhackathon.hackerearth.com//",
+        "startDate": "December 21",
+        "endDate": "December 22",
+        "year": "2019",
+        "city": "Bangalore",
+        "host": "NIT Trichy",
+        "length": "30",
+        "size": "unknown",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "yes",
+        "cost": "INR 500",
+        "facebookURL": "https://www.facebook.com/pragyan.nitt/",
+        "twitterURL": "https://www.facebook.com/pragyan.nitt/",
+        "googlePlusURL": "",
+        "notes": ""
+      }
+  ]
+}

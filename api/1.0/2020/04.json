@@ -1,0 +1,78 @@
+
+{
+  "April" :
+  [
+    {
+      "title": "HackNU2020",
+      "url": "https://hacknu.kz/",
+      "startDate": "April 4",
+      "endDate": "April 5",
+      "year": "2020",
+      "city": "Nur-Sultan, Kazakhstan",
+      "host": "Nazarbayev University",
+      "length": "24",
+      "size": "200-300",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "instagramURL": "http://instagram.com/hacknu2020",
+      "telegramURL": "https://t.me/HackNUinfo",
+      "notes": "only for undergraduate/graduate students"
+    },
+    {
+      "title": "Stop COVID-19",
+      "url": "https://gitcoin.co/hackathon/onboard/stop-covid/",
+      "startDate": "April 13",
+      "endDate": "May 11",
+      "year": "2020",
+      "city": "Online",
+      "host": "Consensys Health, Gitcoin",
+      "length": "672",
+      "size": "unlimited",
+      "travel": "no, virtual",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "instagramURL": "",
+      "telegramURL": "",
+      "notes": "The hackathon is open to anyone"
+    },
+    {
+      "title": "HR Hackathon 2020 online",
+      "url": "https://hrhackathon.net",
+      "startDate": "April 17",
+      "endDate": "April 19",
+      "year": "2020",
+      "city": "Berlin / Worldwide / Online",
+      "host": "Eva Zils, online-recruiting.net",
+      "length": "48",
+      "size": "unlimited",
+      "travel": "no, virtual",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free/donation",
+      "instagramURL": "https://twitter.com/HR_Hackathon",
+      "telegramURL": "https://hrhackathon.net",
+      "notes": "Please register here: https://www.eventbrite.com/e/hr-hackathon-online-create-hr-tech-in-light-of-the-covid-19-crisis-tickets-101037634284?aff=hackalist"
+    },
+    {
+      "title": "Hackaroma 2020 online",
+      "url": "https://aromajoin.com/hackaroma",
+      "startDate": "May 12",
+      "endDate": "May 24",
+      "year": "2020",
+      "city": "US/ Japan/ Online",
+      "host": "Aromajoin, aromajoin.com",
+      "length": "288",
+      "size": "unlimited",
+      "travel": "no, virtual",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free/donation",
+      "instagramURL": "",
+      "telegramURL": "",
+      "notes": "Please register here: https://aromajoin.com/hackaroma?utm_source=hackalist&utm_medium=post&utm_campaign=hackaroma"
+    }
+  ]
+}
